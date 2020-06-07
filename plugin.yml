@@ -1,0 +1,6 @@
+name: AFK
+main: Willoxey\AFK\Main
+version: 1.0
+api: 3.9.0
+author: Willoxey
+description: Make player invisible when AFK

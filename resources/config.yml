@@ -1,0 +1,9 @@
+#NO NEED TO CHANGE THIS
+Version: 1.0
+#Time to make invisible a player if its AFK
+Time: 1
+#Scan-Time is the interval which the plugin scan the player's movement
+#You can set this value from 1 to 30
+#But if your server isnt so powerfull just try to play with the value
+#By default is 5, but you are free to change
+Scan-Time: 5
